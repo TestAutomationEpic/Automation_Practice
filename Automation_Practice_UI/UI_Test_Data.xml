@@ -1,0 +1,26 @@
+<Test_Data>
+
+	<Chrome_Driver_Directory>D:\\chrome_driver.exe</Chrome_Driver_Directory>
+	<Web_Site>http://automationpractice.com/index.php</Web_Site>
+	<first_name>Automation</first_name>
+	<last_name>Testing</last_name>
+	<pass_word>Automation@Testing</pass_word>
+	<day_of_birth>8</day_of_birth>
+	<month_of_birth>5</month_of_birth>
+	<year_of_birth>2000</year_of_birth>
+	<first_address>Automation St, P.O 12121, Automation</first_address>
+	<city>New Jersey</city>
+	<state>30</state>
+	<postal_code>12121</postal_code>
+	<mobile_phone>123456789910</mobile_phone>
+	<second_address>P.O 12121, Automation</second_address>
+	<category>Women</category>
+	<subcategory>Blouses</subcategory>
+	<subcategory_long_text>Match your favorites blouses with the right accessories for the perfect look.</subcategory_long_text>
+	<subcategory_image_title>Blouse</subcategory_image_title>
+	<added_product_long_text>There is 1 item in your cart.</added_product_long_text>
+	<payment_method_text>Please choose your payment method</payment_method_text>
+	<payment_title>Pay by bank wire</payment_title>
+	<order_confirmation_text>Your order on My Store is complete.</order_confirmation_text>
+
+</Test_Data>
